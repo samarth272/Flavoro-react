@@ -1,0 +1,1 @@
+deployed on vercel : https://flavoro-react-psi.vercel.app/
